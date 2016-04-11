@@ -3,3 +3,8 @@
 /.project
 /bin
 /.settings
+
+target/
+.idea/
+*.im*
+dependency-reduced-pom.xml
